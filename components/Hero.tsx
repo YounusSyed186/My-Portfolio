@@ -50,7 +50,7 @@ export const Hero = () => {
             
           </div>
           <div className='flex justify-center my-5 z-0'>
-            <Image width={200} height={200} className="md:h-100 md:w-90 lg:w-100 xl:130 xl:m-5 mix-blend-overlay inset-0 object-cover h-50 w-50 rounded-xl hover:scale-110" src="/younus.jpg" alt="" />
+            <Image width={200} height={200} className="md:h-100 md:w-90 lg:w-100 xl:130 xl:m-5 mix-blend-overlay inset-0 object-cover h-50 w-50 rounded-xl hover:scale-110" src="/younus123.jpg" alt="" />
           </div>
          
 
