@@ -55,7 +55,7 @@ export default function Home() {
         <div className="min-h-screen max-h-[100%] z-0">
           <Skills />
         </div>
-        <div className="min-h-screen max-h-[100%]">
+        <div className="min-h-screen max-h-[100%] px-3 md:px-1">
           <Contactme/>
         </div>
 
